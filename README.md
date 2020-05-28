@@ -1,5 +1,5 @@
 # Estimating-Beta-Using-High-Frequency-Factors
-## A demonstration of calculation factors and betas for year 2018
+## A demonstration of calculation factors and betas in 201807-201806
 
 ### 1. Portfolio_RCC.py
 Set the startyear as 2018 and endyear as 2019, where startdate is set to be smaller than t-2 and enddate being slightly greater than t+1
